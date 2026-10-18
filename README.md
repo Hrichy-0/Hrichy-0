@@ -1,16 +1,15 @@
+# 💫 About Me:
+I’m currently working on: Building AI-powered cybersecurity tools, including a Machine Learning-based Phishing URL Detector and a full-stack Event Management System.<br><br>I’m looking to collaborate on: Open-source projects involving Artificial Intelligence, Machine Learning, Cybersecurity, and Backend Development.<br><br>I’m looking for help with: Advancing my skills in AI Engineering, Agentic AI, LLM integration, and building scalable real-world applications.<br><br>I’m currently learning: AI Engineering, Agentic AI, Generative AI, Machine Learning, and cybersecurity, while strengthening my Python, Java, and backend development skills.<br><br>Fun fact: I enjoy turning complex ideas into real-world projects, especially when AI and cybersecurity come together! 🚀
 
 
-<!--
-**Hrichy-0/Hrichy-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishikesh-thorat-5aa6701b3) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Hrichy-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hrichy-0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hrichy-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hrichy-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->use GPRM
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
